@@ -34,7 +34,7 @@ Some Features:
 
 ## Tools & Utilities:
 -   [Visual Studio Code](https://code.visualstudio.com/) - The text editor used
--   [GitHub](https://github.com/sainath161/Chat-App.git) - Where you'll find the code
+-   [GitHub](https://github.com/sainath161/ChatApp) - Where you'll find the code
 
 #### Install dependencies for both frontend and backend
 cd chatapp
