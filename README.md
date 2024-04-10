@@ -4,7 +4,7 @@ ChatApp is a full-stack web application that allows users to chat with each othe
 ## Introduction 
 This project is an example of how to build a real-time chat application using the MERN (MongoDB, Express.js, React, and Node.js) stack.
 
-![Live App](https://chat-app-wp-ykcy.onrender.com)
+[Live App](https://chat-app-wp-ykcy.onrender.com/)
 
 Some Features:
 
